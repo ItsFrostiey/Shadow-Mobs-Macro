@@ -40,9 +40,7 @@ Stamina and energy are tracked from their regen rates, so notices covering the b
 
 Tips:
 
-- **Turn off notifications** (Windows Do not disturb, Roblox notifications, Discord/Steam overlays). Popups
-  over the game can cover what the tool reads.
-- **Calibrate in the theme you play with**, and again if you change theme or screen size. Each screen size
+- **Calibrate every time the theme changes**, and again if you change theme or screen size. Each screen size
   keeps its own calibration, so a desktop and a laptop can both be set up.
 - With "Pause while I'm using the mouse or keyboard" on (Settings), touching the PC pauses it for a few seconds.
 - **Check screen** on each page reports what the tool can see, without clicking anything.
