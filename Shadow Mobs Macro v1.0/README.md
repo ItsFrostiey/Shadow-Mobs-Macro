@@ -62,5 +62,4 @@ This compiles `Shadow Mobs Macro.exe` with the C# compiler built into Windows; n
 
 ## Disclaimer
 
-This is an unofficial fan-made tool, not affiliated with Roblox or Smooth Brain Games. Use it at
-your own risk.
+This is an unofficial fan-made tool, not affiliated with Roblox or Smooth Brain Games.
