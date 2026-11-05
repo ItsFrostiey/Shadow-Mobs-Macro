@@ -30,7 +30,7 @@ Once you press start, you do not need to move anything. Note: If you move your m
 
 ## Set up guide
 
-1. Download ZIP folder and extract folder.
+1. Download ZIP folder and extract the folder to your preferred location.
 2. Inside of folder, open the .exe file to launch the program (NOTE: The .exe file needs to stay in the folder. You can create a shortcut and then drag that to the desktop if required)
 3. Once the Shadow Mobs Macro is launched, prepare Roblox in the size that you want the macro to work in
 4. Press **CALIBRATE**. It walks through each feature in turn: a short checklist (which page to open), then
