@@ -4,7 +4,7 @@ A Windows helper for the Roblox game **Idle Mafia**. It watches the game window 
 
 - **Stamina Donator**: donates stamina to your family perks in the order you choose. Optionally levels every
   ticked perk to a set level first (e.g. all to 7), then carries on to 25.
-- **Auto Jobs**: does jobs for you, in one of two modes:
+- **Auto Jobs**: does jobs for you, in one of two modes: ted was here
   - **Job Mastery**: gold mastery on every job, lowest level first, then switches to Most XP per hour.
   - **Most XP per hour**: always the job with the best XP per energy (using your real mastery discounts and
     the XP you actually earn, boosts included).
