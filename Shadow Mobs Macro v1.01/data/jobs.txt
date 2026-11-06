@@ -1,0 +1,142 @@
+# Every job, top to bottom exactly as the game lists them on the Jobs page.
+#   == Area name | level      an area banner (it has a collapse button on the right)
+#   -- Tier N | level         a tier heading
+#   Job name | unlock level | energy | xp      (energy and XP before any mastery discount)
+# The banners and headings are kept because they take up space in the list, which the tool needs
+# in order to work out how far to scroll to reach a job.
+# Typed from the user's screenshots, 2026-11-05.
+
+== New Ashport | 1
+-- Tier 1 | 1
+Keep Watch on the Corner | 1 | 1 | 2
+Tag Rival Turf | 2 | 2 | 4
+Boost a Parked Car | 3 | 3 | 7
+Shake Down the Newsstand | 4 | 3 | 7
+Fence Fake Watches | 5 | 4 | 11
+Rough Up a Pickpocket | 6 | 5 | 14
+-- Tier 2 | 8
+Hijack a Delivery Truck | 8 | 5 | 19
+Run the Chop Shop Night Shift | 9 | 6 | 23
+Bribe a Dock Inspector | 10 | 7 | 28
+Rob the Pawn Shop Safe | 12 | 8 | 48
+Forge Gallery Paintings | 14 | 9 | 56
+Torch a Rival's Warehouse | 16 | 11 | 67
+-- Tier 3 | 18
+Crack the Vault at First National | 18 | 13 | 89
+Ambush the Kovac Convoy | 20 | 14 | 105
+Rig the Union Election | 22 | 16 | 120
+Heist the Museum Gala | 24 | 18 | 135
+Silence a Witness | 26 | 20 | 155
+Take Over the Waterfront | 28 | 22 | 180
+
+== Port Caldera | 30
+-- Tier 4 | 30
+Smuggle Contraband Past the Coast Guard | 30 | 23 | 210
+Shake Down the Cane Fields | 32 | 24 | 225
+Rig the Marina Boat Races | 34 | 25 | 245
+Hijack a Smuggler's Speedboat | 36 | 27 | 270
+Bribe the Harbor Master | 38 | 29 | 295
+Rob the Gold Bullion Ferry | 40 | 31 | 325
+-- Tier 5 | 42
+Run a Convoy to the Rebels | 42 | 32 | 360
+Blackmail the Governor's Aide | 44 | 33 | 375
+Heist the Sugar Baron's Vault | 46 | 34 | 405
+Sink a Rival Smuggler's Fleet | 48 | 36 | 430
+Seize the Grand Pavilion | 50 | 38 | 460
+Take Over the Island Trade | 52 | 40 | 495
+
+== Volkovsk | 54
+-- Tier 6 | 54
+Raid an Abandoned Supply Depot | 54 | 41 | 545
+Fix the Underground Boxing Circuit | 56 | 42 | 575
+Shake Down the Icehouse District | 58 | 43 | 600
+Bribe the Rail Yard Commissar | 60 | 45 | 635
+Steal Kovac's Ice Trucks | 62 | 47 | 670
+Torch the Kolyev Social Club | 64 | 49 | 710
+-- Tier 7 | 66
+Rob the State Bank of Volkovsk | 66 | 50 | 755
+Ambush the Diamond Courier Train | 68 | 50 | 780
+Silence the Prosecutor General | 70 | 51 | 805
+Heist the Winter Palace Auction | 72 | 52 | 840
+Break the Kovac Blockade | 74 | 54 | 885
+Take Over the Volkovsk Underworld | 76 | 56 | 930
+
+== Jade Harbor | 78
+-- Tier 8 | 78
+Smuggle Jade Through Customs | 78 | 58 | 1000
+Fix the Dragon Den Prizefights | 80 | 59 | 1035
+Shake Down the Night Market | 82 | 59 | 1070
+Hijack a Freighter of Counterfeits | 84 | 61 | 1115
+Bribe the Jade Court Captains | 86 | 63 | 1160
+Rob the Golden Lotus Vault | 88 | 65 | 1215
+-- Tier 9 | 90
+Steal the Emperor's Jade Seal | 90 | 67 | 1295
+Ambush the Jade Court Summit | 92 | 68 | 1330
+Heist the Floating Palace | 94 | 68 | 1375
+Silence the Dragon Head's Heir | 96 | 70 | 1430
+Burn the Rival Fleet at Anchor | 98 | 72 | 1490
+Take Over Jade Harbor | 100 | 74 | 1555
+
+== Sterling Cross | 102
+-- Tier 10 | 102
+Pay Off the Precinct Captains | 102 | 76 | 1660
+Burgle the Records Hall | 104 | 77 | 1710
+Blackmail a City Councilman | 106 | 77 | 1765
+Steal the Court Docket | 108 | 79 | 1825
+Plant a Story in the Morning Herald | 110 | 81 | 1900
+Rig the Council Election | 112 | 83 | 1980
+-- Tier 11 | 114
+Buy Off the Star Witness | 114 | 85 | 2135
+Break Into the Chancellery Archive | 116 | 86 | 2205
+Bribe the Supreme Bench | 118 | 88 | 2300
+Swap the Mint's Bullion | 120 | 90 | 2400
+Seize the Sterling Ledgers | 122 | 92 | 2500
+Claim the Charter Seat | 124 | 94 | 2610
+
+== Veilmont | 126
+-- Tier 12 | 126
+Bribe the Mountain Toll Wardens | 126 | 95 | 2755
+Smuggle Gold Over the High Pass | 128 | 97 | 2870
+Forge a Numbered Account | 130 | 99 | 2980
+Rob the Alpine Gold Train | 132 | 101 | 3090
+Intercept the Courier Cables | 134 | 103 | 3205
+Buy a Seat at the Chamber Table | 136 | 104 | 3315
+-- Tier 13 | 138
+Crack the Numbered Vaults | 138 | 106 | 3480
+Counterfeit the Chamber Seals | 140 | 108 | 3595
+Ransom the Vault Governor's Keys | 142 | 110 | 3710
+Derail the Chairman's Express | 144 | 112 | 3840
+Freeze the Chamber's Accounts | 146 | 113 | 3975
+Take the Chairman's Seat | 148 | 115 | 4105
+
+== Vespera | 150
+-- Tier 14 | 150
+Bribe the Old Harbor Master | 150 | 117 | 4330
+Steal the Ferryman's Ledger | 152 | 119 | 4465
+Shake Down the Olive Press Barons | 154 | 121 | 4600
+Rob the Cliffside Courier | 156 | 122 | 4735
+Extort the Procession Road Tolls | 158 | 124 | 4885
+Buy an Audience with the Elders | 160 | 126 | 5020
+-- Tier 15 | 162
+Turn the First Family's Capos | 162 | 128 | 5285
+Raid the First Family's Treasury | 164 | 130 | 5440
+Steal the Book of Oaths | 166 | 131 | 5595
+Corner the Marble Quarries | 168 | 133 | 5750
+Expose the Elder Council's Secrets | 170 | 135 | 5910
+Take the First Seat | 172 | 137 | 6065
+
+== The Exiles | 174
+-- Tier 16 | 174
+Bribe the Roadwarden's Tollmen | 174 | 139 | 6350
+Follow the Caravan Ledger | 176 | 140 | 6510
+Seal the Cisterns | 178 | 142 | 6670
+Break the Caravanserai Ring | 180 | 144 | 6830
+Steal the Cistern Keys | 182 | 146 | 6990
+Force the Iron Gate | 184 | 148 | 7150
+-- Tier 17 | 186
+Turn the Keeper's Scribes | 186 | 149 | 7440
+Burn the Ledger of Grudges | 188 | 151 | 7620
+Hold the Citadel Stair | 190 | 153 | 7800
+Unseat the Unsworn Council | 192 | 155 | 8000
+Break Caradine's Ring | 194 | 157 | 8200
+Rewrite the Oath | 196 | 158 | 8440
